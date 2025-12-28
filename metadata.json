@@ -1,0 +1,9 @@
+{
+  "name": "MyVication",
+  "description": "A comprehensive travel planning tool that provides itineraries, budget accommodation links, price comparisons, safety alerts, and health advice using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
